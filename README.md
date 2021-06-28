@@ -1,4 +1,5 @@
-![Latkecrszy's GitHub stats](https://github-readme-stats.vercel.app/api?username=Latkecrszy&count_private=true)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Latkecrszy&&layout=compact&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Latkecrszy&layout=compact&hide_border=true&card_width=250&bg_color=0D1117&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF"/>
 
 <!--
 **Latkecrszy/Latkecrszy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
